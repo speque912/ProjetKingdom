@@ -7,10 +7,6 @@
 		{
 			"Name": "SunPosition",
 			"Enabled": true
-		},
-		{
-			"Name": "NiagaraExtras",
-			"Enabled": true
 		}
 	]
 }
